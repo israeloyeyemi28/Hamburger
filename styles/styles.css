@@ -12,6 +12,7 @@ nav {
 
 nav a {
   text-align: center;
+  border-radius: 20px;
   color: #cfcfcf;
   text-decoration: none;
   padding: 35px;
@@ -21,7 +22,7 @@ body {
   font-size: 22px;
   margin: 0 auto;
   text-align: center;
-  padding: 0;
+  padding: 30px;
   background-color: rgb(184, 125, 17);
 }
 header {
@@ -54,6 +55,7 @@ section {
   width: 50%;
   border-radius: 10px;
 }
+
 .burger-text {
   margin: 20px;
   padding: 40px;
@@ -134,7 +136,7 @@ details {
   display: flex;
   justify-content: space-between;
   padding: 1em;
-  background-color: #4b4e77;
+  background-color: #464a80;
   color: #fff;
   font-weight: bold;
   cursor: pointer;
@@ -146,7 +148,7 @@ summary {
   display: flex;
   justify-content: space-between;
   padding: 1em;
-  background-color: #c7d1e1;
+  background-color: #9ea9bb;
   color: #000;
   font-weight: bold;
   cursor: pointer;
