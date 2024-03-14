@@ -4,7 +4,7 @@ async function searchLyrics() {
 
   // Clear previous results
   resultsContainer.innerHTML = "";
- 
+
   try {
     // Make API request to Genius
     const response = await fetch(
