@@ -140,6 +140,8 @@
 
 .sidebar ul li:hover .tooltip {
   opacity: 1;
+  background-color: #33275f;
+  color: #fff;
 }
 .sidebar.active ul li .tooltip {
   display: none;
